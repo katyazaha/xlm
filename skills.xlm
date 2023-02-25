@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base_theory>
+	<theory>testing documentation</theory>
+	<theory>types of testing</theory>
+	<theory>SDLC</theory>
+	<theory>STLC</theory>
+</base_theory>
+
+<client_server_architecture>
+	<client_server>HTTP methods of server requests</client_server>
+	<client_server>HTTP codes of answers</client_server>
+	<client_server>HTTP structure of requests and answers</client_server>
+	<client_server>JSON and XLM structure</client_server>
+	<client_server>collecting and reading logs from an external server</client_server>
+	<client_server>VPN</client_server>
+</client_server_architecture>
+
+<Postman_API_testing>JS and API autotests</Postman_API_testing>
+
+<sniffing_of_web_traffic>
+	<sniffing>Charles</sniffing>
+	<sniffing>Fidler</sniffing>
+</sniffing_of_web_traffic>
+
+<Dev_tools>Google Chrome and Firefox</Dev_tools>
+
+<Mobile_testing>
+	<mob_testing>features of iOS</mob_testing>
+	<mob_testing>features of Android</mob_testing>
+	<mob_testing>guidelines</mob_testing>
+	<mob_testing>iOS applications assembly with Xcode</mob_testing>
+	<mob_testing>Android app assembly with Android Studio</mob_testing>
+	<mob_testing></mob_testing>
+	<mob_testing></mob_testing>
+	<mob_testing></mob_testing>
+	<mob_testing></mob_testing>	
+</Mobile_testing>
+
+
+
+
