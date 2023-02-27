@@ -19,7 +19,7 @@
 | 13. On web interface create file bug_report.xml                                 | ```Add file```                                     |
 |                                                                                 | ```Create new file```                              |
 | 14. Make Commit changes (save)                                                  | ```Commit new file```                              |
-| 15. Modify file bug_report.xml on web interface, add bug-report in XML format   | ```Edit this file"```                              |
+| 15. Modify file bug_report.xml on web interface, add bug-report in XML format   | ```Edit this file```                              |
 | 16. Make Commit changes (save) on web interface                                 | ```Commit new file```                              |
 | 17. Sinchronize remote and local XML repository                                 | ```git fetch```                                    |
 |                                                                                 | ```git pull```                                     |
