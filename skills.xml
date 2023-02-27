@@ -15,27 +15,40 @@
 	<client_server>VPN</client_server>
 </client_server_architecture>
 
-<Postman_API_testing>JS and API autotests</Postman_API_testing>
+<postman_api_testing>JS and API autotests</postman_api_testing>
 
 <sniffing_of_web_traffic>
 	<sniffing>Charles</sniffing>
 	<sniffing>Fidler</sniffing>
 </sniffing_of_web_traffic>
 
-<Dev_tools>Google Chrome and Firefox</Dev_tools>
+<dev_tools>Google Chrome and Firefox</dev_tools>
 
-<Mobile_testing>
+<mobile_testing>
 	<mob_testing>features of iOS</mob_testing>
 	<mob_testing>features of Android</mob_testing>
 	<mob_testing>guidelines</mob_testing>
 	<mob_testing>iOS applications assembly with Xcode</mob_testing>
 	<mob_testing>Android app assembly with Android Studio</mob_testing>
-	<mob_testing>djhhdg</mob_testing>
-	<mob_testing>fgddfh</mob_testing>
-	<mob_testing></mob_testing>
-	<mob_testing></mob_testing>	
-</Mobile_testing>
+	<mob_testing>ADB</mob_testing>
+	<mob_testing>proxy and VPN for iOS and Android</mob_testing>
+	<mob_testing>sniffing of webtraffic on iOS and Android</mob_testing>
+</mobile_testing>
 
+<linux_terminal>
+	<terminal>copying, creating, viewing and moving of files</terminal>
+	<terminal>bash scripting</terminal>
+	<terminal>access to remote servers</terminal>
+</linux_terminal>
 
+<sql>CREATE, DELETE, DROP, INSERT INTO, SELECT, FROM, WHERE, JOIN</sql>
+<postgres>installing, setting, using</postgres>i
+<redis>installing, setting, using</redis>i
+<stress_testing>Jmeter</stress_testing> 
+<scrum_methodology>practica</scrum_methodology>
 
+<phyton_language>        
+	<phyton>learning the basics</phyton>
+  <phyton>creating a client-server app</phyton>
+</phyton_language> 
 
